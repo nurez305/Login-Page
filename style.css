@@ -1,0 +1,14 @@
+.navbar-content {
+    list-style: none;
+}
+body {
+    background-image: url(Bench-Background-15-2560x1920.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+.bg-color {
+    background: rgba(253, 245, 230, 0.4);
+}
+.navbar-content li {
+    font-weight: 700;
+}
